@@ -28,7 +28,6 @@
 //     auto pikachu = std::make_unique<Pokemon>("Pikachu");
 
 //     Pokeball pokeball;
-//     REQUIRE(pokeball.empty() == true);
 
 //     pokeball.store(std::move(pikachu));
 //     REQUIRE(pokeball.empty() == false);
